@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Rosa — Bolsas & Acessórios",
+  "description": "Loja conceito responsiva de bolsas autorais em couro legítimo e ráfia trançada, inspirada em estética editorial contemporânea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
